@@ -43,9 +43,9 @@
 	#Affiche Tu as pointJoueur points
     #Affiche Tu as pointBot points
 
-    #Si pointDuJoueur est superieur a pointDuBot
+    #Si pointJoueur est superieur a pointBot
         #Alors afficher le joueur a gagner 
-    #Sinon si pointDuJoueur est inferieur a pointDuBot
+    #Sinon si pointJoueur est inferieur a pointBot
         #Alors afficher le bot a gagner
     #Sinon afficher egalitee
 
